@@ -1,13 +1,17 @@
-## Wingy
+## HappyDiary
 
-Wingy is a lightweight proxy Util
+HappyDiary is a lightweight diary app
 
-Fully method and protocol are supported
+You can write diary in a concise and efficient way.
 
-Support Rule based data flow redirect
+Able to mark your mood in every diary
+
+Now record your life 
+
+Share your mood and happy
 
 ### Support or Contact
 
-Having trouble with Wingy? 
+Having trouble with HappyDiary? 
 
 Contact us  ding586906li8832@163.com
