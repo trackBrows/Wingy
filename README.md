@@ -1,17 +1,15 @@
-## HappyDiary
+## Wingy
 
-HappyDiary is a lightweight diary app
+This is a Simple Http proxy util
 
-You can write diary in a concise and efficient way.
+User can Setup Http proxy In a easy way
 
-Able to mark your mood in every diary
+Support Https
 
-Now record your life 
-
-Share your mood and happy
+Support Delay test
 
 ### Support or Contact
 
-Having trouble with HappyDiary? 
+Having trouble with Wingy? 
 
 Contact us  ding586906li8832@163.com
