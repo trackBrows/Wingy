@@ -1,12 +1,12 @@
 ## Wingy
 
-This is a Simple Http proxy util
+This is a Simple Network Debug util
 
-User can Setup Http proxy In a easy way
+User can Setup Network Proxy In a easy way
 
-Support Https
+Support Most Proxy and Methods
 
-Support Delay test
+Support NetWork Speed Test
 
 ### Support or Contact
 
